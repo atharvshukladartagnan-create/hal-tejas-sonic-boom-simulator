@@ -1,4 +1,4 @@
-#  HAL Tejas Sonic Boom Simulator
+#  HAL Tejas Sonic Boom Simulator - VAJRA
 
 A real time interactive supersonic flight physics simulator built for the HAL Tejas fighter jet.
 
