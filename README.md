@@ -1,6 +1,6 @@
-# ✈️ HAL Tejas Sonic Boom Simulator
+#  HAL Tejas Sonic Boom Simulator
 
-A real-time interactive supersonic flight physics simulator built for the HAL Tejas fighter jet.
+A real time interactive supersonic flight physics simulator built for the HAL Tejas fighter jet.
 
 ## What it does
 - Simulates the four forces of flight in real time
@@ -11,7 +11,7 @@ A real-time interactive supersonic flight physics simulator built for the HAL Te
 
 ## Physics behind it
 - International Standard Atmosphere (ISA) model for temperature and speed of sound at altitude
-- Mach cone half-angle calculated using: θ = arcsin(1/M)
+- Mach cone half angle calculated using: θ = arcsin(1/M)
 - Real atmospheric lapse rate of 6.5K per 1000m altitude gain
 - Pressure wave modelling based on compressibility effects
 
@@ -27,5 +27,5 @@ python -m streamlit run app.py
 
 ## About
 Built by Atharv Shukla, Class 12, Amity International School Sector 46 Gurgaon.
-Part of a self-directed aerospace engineering project portfolio.
+Part of a self directed aerospace engineering project portfolio.
 Inspired by HAL's Tejas Mk1A supersonic fighter jet program.
